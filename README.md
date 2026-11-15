@@ -1,6 +1,7 @@
 # India AQI Forecasting
 
-A machine learning project for analysing historical air pollution patterns and forecasting the next day's Air Quality Index (AQI) across Indian cities.
+A machine learning project focused on analysing historical air pollution trends and forecasting next day Air Quality Index (AQI) levels across major Indian cities.
+
 
 ## Project Overview
 
