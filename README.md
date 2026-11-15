@@ -256,9 +256,6 @@ india_aqi_forecasting/
 
 LinkedIn: [jeetmaru17](<https://www.linkedin.com/in/jeetmaru17>)
 
-## Acknowledgements
-
-The air quality dataset used in this project is taken from [Kaggle](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india).
 
 
 
