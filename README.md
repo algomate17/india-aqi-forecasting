@@ -257,7 +257,7 @@ LinkedIn: [jeetmaru17](<https://www.linkedin.com/in/jeetmaru17>)
 
 ## Acknowledgements
 
-The air quality dataset used in this project is provided by [Kaggle](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india).
+The air quality dataset used in this project is taken from [Kaggle](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india).
 
 
 
