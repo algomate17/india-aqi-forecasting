@@ -252,6 +252,7 @@ india_aqi_forecasting/
 ## Author
 
 **Jeet Maru**
+
 LinkedIn: [jeetmaru17](<https://www.linkedin.com/in/jeetmaru17>)
 
 ## Acknowledgements
