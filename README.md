@@ -242,13 +242,14 @@ india_aqi_forecasting/
 
 ## Future Improvements
 
-- Integrate recent CPCB air quality observations.
-- Incorporate weather and meteorological variables.
-- Compare models against a persistence baseline.
-- Implement rolling-origin time-series validation.
-- Estimate prediction uncertainty.
-- Analyse feature importance.
-- Develop and evaluate city-specific models.
+* Include the latest available air quality data from CPCB.
+* Incorporate weather data and other relevant meteorological factors.
+* Evaluate model performance against a simple persistence baseline.
+* Use rolling-origin validation to assess forecasting performance over time.
+* Quantify the uncertainty in AQI predictions.
+* Identify the key factors influencing model predictions.
+* Build and evaluate separate models for individual cities.
+  
 
 ## Author
 
