@@ -50,9 +50,9 @@ The dataset contains daily air quality measurements from multiple Indian cities,
 
 Important columns include City, Date, PM2.5, PM10, NO, NO2, NOx, NH3, CO, SO2, O3 and AQI.
 
-The commonly distributed dataset covers the period 2015–2020. The exact date range is checked during data preparation.
+The commonly distributed dataset covers the period 2015–2020.
 
-The raw dataset is not included in this repository.
+
 
 ## Technologies Used
 
