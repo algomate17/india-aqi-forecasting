@@ -252,9 +252,7 @@ india_aqi_forecasting/
 ## Author
 
 **Jeet Maru**
-
- GitHub: [algomate17](<https://github.com/algomate17>)
- LinkedIn: [jeetmaru17](<https://www.linkedin.com/in/jeetmaru17>)
+LinkedIn: [jeetmaru17](<https://www.linkedin.com/in/jeetmaru17>)
 
 ## Acknowledgements
 
