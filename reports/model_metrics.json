@@ -1,0 +1,27 @@
+{
+    "selected_model": "Ridge Regression",
+    "cutoff_date": "2019-12-21",
+    "train_rows": 17121,
+    "test_rows": 4267,
+    "models": {
+        "Ridge Regression": {
+            "mae": 24.204346116401137,
+            "rmse": 37.14845237952115,
+            "r2": 0.7324063503842837,
+            "samples": 4267
+        },
+        "Random Forest": {
+            "mae": 26.43087380350516,
+            "rmse": 38.98050455700366,
+            "r2": 0.7053616565398546,
+            "samples": 4267
+        },
+        "Extra Trees": {
+            "mae": 26.052911052022242,
+            "rmse": 38.80618286851771,
+            "r2": 0.7079910226000448,
+            "samples": 4267
+        }
+    },
+    "evaluation_note": "Chronological holdout evaluation. Future performance is not guaranteed."
+}
