@@ -140,8 +140,8 @@ The Streamlit dashboard provides:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd india_aqi_forecasting
+git clone https://github.com/algomate17/india-aqi-forecasting.git
+cd india-aqi-forecasting
 ```
 
 ### 2. Create a Virtual Environment
